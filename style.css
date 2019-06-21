@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  background-color: grey;
+}
+
+header li{
+  padding: 14px 16px;
+  list-style-type: none;
+  display: inline-block;
+  color: white;
+}
+
+a:hover {
+  background-color: #98db5a;
+}
+
+body {
+  background-color: green;
+}
+
+.container {
+  background-color: #98db5a;
+  padding: 10px 50px;
+}
